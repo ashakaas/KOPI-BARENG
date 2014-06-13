@@ -1,4 +1,0 @@
-KOPI-BARENG
-===========
-
-SOFTWARE USB SAJA
